@@ -1,0 +1,12 @@
+.question {
+    display: grid;
+    justify-items: center;
+}
+
+.question>h1 {
+    text-align: center;
+}
+
+.question>h2 {
+    text-align: center;
+}
